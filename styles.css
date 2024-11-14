@@ -74,6 +74,7 @@ body {
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
+
     header {
         background-color: #767b80;
     color: #fff;
@@ -82,6 +83,7 @@ body {
     border-radius: 8px;
 
     }
+
     .sobremin{
         display: flex;
         justify-content: center;
@@ -91,6 +93,7 @@ body {
         padding: 20px;
     
     }
+
     .FotoRaphael {
         display: flex;
         justify-content: center;
@@ -98,6 +101,33 @@ body {
         height: 100vh;
     }
 
+    .musicasfavoritas{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 20px;
+    
+    }
+
+    .Sitesparaprogramação{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 20px;
+    }
+
+    .estudoemgeral {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 20px;
+    }
         
     
     
