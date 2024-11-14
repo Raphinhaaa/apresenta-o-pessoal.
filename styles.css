@@ -84,19 +84,3 @@ body {
 
     }
 
-    .sobremin{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 10px;
-        padding: 20px;
-    
-    }
-
-    .FotoRaphael {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-    }
