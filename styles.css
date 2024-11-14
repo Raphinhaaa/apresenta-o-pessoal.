@@ -1,4 +1,4 @@
-/* Definindo o fundo preto e o texto branco */
+
 body {
     background-color: black;
     color: white;
@@ -74,5 +74,15 @@ body {
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
+    header {
+        background-color: #767b80;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+
+    }
+
+    
 
 
