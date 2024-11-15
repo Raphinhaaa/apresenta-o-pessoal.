@@ -127,23 +127,9 @@ body {
   padding: 20px;
  }
 
- .função1{
+ .sobremin {
     display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
- }
-
- .função2{
-    display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
- }
-
- .função3{
-    display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
  }
