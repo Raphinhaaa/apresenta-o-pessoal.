@@ -126,3 +126,10 @@ body {
   gap: 10px;
   padding: 20px;
  }
+
+ .funções {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ }
