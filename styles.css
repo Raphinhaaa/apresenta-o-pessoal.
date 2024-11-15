@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 header {
     background-color: #5e5c5c;
     color: white;
@@ -93,3 +94,35 @@ body {
     align-items: center;
     height: 100vh;  
 }
+
+.musicasfavoritas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 20px;
+}
+
+.Sitesparaprogramação {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.Estudoemgeral {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+ .musicas {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 20px;
+ }
