@@ -127,7 +127,21 @@ body {
   padding: 20px;
  }
 
- .funções {
+ .função1{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ }
+
+ .função2{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ }
+
+ .função3{
     display: flex;
   justify-content: center;
   align-items: center;
