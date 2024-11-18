@@ -145,3 +145,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
  }
+
+p {
+    margin-top: 20px;
+}
