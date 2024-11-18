@@ -131,7 +131,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
  }
-
+ 
  .sobre {
     display: flex;
     justify-content: center;
@@ -139,7 +139,7 @@ body {
     flex-wrap: wrap;
  }
 
- .sites {
+ .GitHub {
     display: flex;
     justify-content: center;
     align-items: center;
