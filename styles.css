@@ -60,7 +60,7 @@ body {
     line-height: 1.6;
 }
 
-..categoria-videos img {
+.categoria-videos img {
     opacity: 0.5;
     height: 200px;
     transition: opacity 0.3s ease;
