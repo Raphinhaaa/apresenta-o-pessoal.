@@ -141,3 +141,9 @@ body {
     align-items: center;
     flex-wrap: wrap;
  }
+ .utilizado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+ }
